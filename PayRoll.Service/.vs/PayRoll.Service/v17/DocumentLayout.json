@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|c:\\users\\gayat\\microservicearchitecture\\payroll.service\\payroll.service\\models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|solutionrelative:payroll.service\\models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|c:\\users\\gayat\\microservicearchitecture\\payroll.service\\payroll.service\\controllers\\payrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|solutionrelative:payroll.service\\controllers\\payrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|c:\\users\\gayat\\microservicearchitecture\\payroll.service\\payroll.service\\services\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|solutionrelative:payroll.service\\services\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|c:\\users\\gayat\\microservicearchitecture\\payroll.service\\payroll.service\\dataaccess\\payrolldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|solutionrelative:payroll.service\\dataaccess\\payrolldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|c:\\users\\gayat\\microservicearchitecture\\payroll.service\\payroll.service\\models\\payrollrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|solutionrelative:payroll.service\\models\\payrollrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|c:\\users\\gayat\\microservicearchitecture\\payroll.service\\payroll.service\\models\\updatepayrollrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|solutionrelative:payroll.service\\models\\updatepayrollrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|c:\\users\\gayat\\microservicearchitecture\\payroll.service\\payroll.service\\services\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|solutionrelative:payroll.service\\services\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|c:\\users\\gayat\\microservicearchitecture\\payroll.service\\payroll.service\\dataaccess\\ipayrolldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|solutionrelative:payroll.service\\dataaccess\\ipayrolldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|c:\\users\\gayat\\microservicearchitecture\\payroll.service\\payroll.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|solutionrelative:payroll.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|c:\\users\\gayat\\microservicearchitecture\\payroll.service\\payroll.service\\dbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|solutionrelative:payroll.service\\dbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|c:\\users\\gayat\\microservicearchitecture\\payroll.service\\payroll.service\\dbcontext\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|solutionrelative:payroll.service\\dbcontext\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|c:\\users\\gayat\\microservicearchitecture\\payroll.service\\payroll.service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|solutionrelative:payroll.service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|c:\\users\\gayat\\microservicearchitecture\\payroll.service\\payroll.service\\payroll.service.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|solutionrelative:payroll.service\\payroll.service.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|c:\\users\\gayat\\microservicearchitecture\\payroll.service\\payroll.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|solutionrelative:payroll.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|c:\\users\\gayat\\microservicearchitecture\\payroll.service\\payroll.service\\payroll.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09399FDF-D51C-4D48-878C-4924768DAAED}|PayRoll.Service\\PayRoll.Service.csproj|solutionrelative:payroll.service\\payroll.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PayRollService.cs",
+              "DocumentMoniker": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\Services\\PayRollService.cs",
+              "RelativeDocumentMoniker": "PayRoll.Service\\Services\\PayRollService.cs",
+              "ToolTip": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\Services\\PayRollService.cs",
+              "RelativeToolTip": "PayRoll.Service\\Services\\PayRollService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:39:57.696Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PayRollController.cs",
+              "DocumentMoniker": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\Controllers\\PayRollController.cs",
+              "RelativeDocumentMoniker": "PayRoll.Service\\Controllers\\PayRollController.cs",
+              "ToolTip": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\Controllers\\PayRollController.cs",
+              "RelativeToolTip": "PayRoll.Service\\Controllers\\PayRollController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:47:13.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PayRollDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\DataAccess\\PayRollDataAccess.cs",
+              "RelativeDocumentMoniker": "PayRoll.Service\\DataAccess\\PayRollDataAccess.cs",
+              "ToolTip": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\DataAccess\\PayRollDataAccess.cs",
+              "RelativeToolTip": "PayRoll.Service\\DataAccess\\PayRollDataAccess.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:48:27.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPayRollService.cs",
+              "DocumentMoniker": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\Services\\IPayRollService.cs",
+              "RelativeDocumentMoniker": "PayRoll.Service\\Services\\IPayRollService.cs",
+              "ToolTip": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\Services\\IPayRollService.cs",
+              "RelativeToolTip": "PayRoll.Service\\Services\\IPayRollService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:35:24.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\Models\\Salary.cs",
+              "RelativeDocumentMoniker": "PayRoll.Service\\Models\\Salary.cs",
+              "ToolTip": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\Models\\Salary.cs",
+              "RelativeToolTip": "PayRoll.Service\\Models\\Salary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:39:15.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdatePayRollRecords.cs",
+              "DocumentMoniker": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\Models\\UpdatePayRollRecords.cs",
+              "RelativeDocumentMoniker": "PayRoll.Service\\Models\\UpdatePayRollRecords.cs",
+              "ToolTip": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\Models\\UpdatePayRollRecords.cs",
+              "RelativeToolTip": "PayRoll.Service\\Models\\UpdatePayRollRecords.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:09:58.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PayRollRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\Models\\PayRollRecord.cs",
+              "RelativeDocumentMoniker": "PayRoll.Service\\Models\\PayRollRecord.cs",
+              "ToolTip": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\Models\\PayRollRecord.cs",
+              "RelativeToolTip": "PayRoll.Service\\Models\\PayRollRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:58:03.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPayRollDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\DataAccess\\IPayRollDataAccess.cs",
+              "RelativeDocumentMoniker": "PayRoll.Service\\DataAccess\\IPayRollDataAccess.cs",
+              "ToolTip": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\DataAccess\\IPayRollDataAccess.cs",
+              "RelativeToolTip": "PayRoll.Service\\DataAccess\\IPayRollDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:49:07.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\DBContext\\IDBContext.cs",
+              "RelativeDocumentMoniker": "PayRoll.Service\\DBContext\\IDBContext.cs",
+              "ToolTip": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\DBContext\\IDBContext.cs",
+              "RelativeToolTip": "PayRoll.Service\\DBContext\\IDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:41:02.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\appsettings.json",
+              "RelativeDocumentMoniker": "PayRoll.Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\appsettings.json",
+              "RelativeToolTip": "PayRoll.Service\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T15:54:26.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\DBContext\\DBContext.cs",
+              "RelativeDocumentMoniker": "PayRoll.Service\\DBContext\\DBContext.cs",
+              "ToolTip": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\DBContext\\DBContext.cs",
+              "RelativeToolTip": "PayRoll.Service\\DBContext\\DBContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:40:45.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PayRoll.Service\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\appsettings.Development.json",
+              "RelativeToolTip": "PayRoll.Service\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T17:18:54.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PayRoll.Service.http",
+              "DocumentMoniker": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\PayRoll.Service.http",
+              "RelativeDocumentMoniker": "PayRoll.Service\\PayRoll.Service.http",
+              "ToolTip": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\PayRoll.Service.http",
+              "RelativeToolTip": "PayRoll.Service\\PayRoll.Service.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-24T14:09:45.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\Program.cs",
+              "RelativeDocumentMoniker": "PayRoll.Service\\Program.cs",
+              "ToolTip": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\Program.cs",
+              "RelativeToolTip": "PayRoll.Service\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:01:13.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PayRoll.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\PayRoll.Service.csproj",
+              "RelativeDocumentMoniker": "PayRoll.Service\\PayRoll.Service.csproj",
+              "ToolTip": "C:\\Users\\Gayat\\MicroserviceArchitecture\\PayRoll.Service\\PayRoll.Service\\PayRoll.Service.csproj",
+              "RelativeToolTip": "PayRoll.Service\\PayRoll.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T05:47:58.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
