@@ -1,0 +1,11 @@
+﻿CREATE PROCEDURE [dbo].[proc_GetAllPayRoll]
+AS
+BEGIN
+    SELECT Id,
+        EmpId,
+        Salaried,
+        CreatedBy,
+        CreatedDate
+    FROM PayRoll;
+END
+GO

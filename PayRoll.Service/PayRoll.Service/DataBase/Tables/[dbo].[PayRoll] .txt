@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[PayRoll](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[EmpId] [int] NULL,
+	[Salaried] [int] NULL,
+	[CreatedBy] [int] NULL,
+	[CreatedDate] [datetime] NULL
+) ON [PRIMARY]
+GO

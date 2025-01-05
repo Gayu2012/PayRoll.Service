@@ -1,0 +1,16 @@
+﻿create procedure [dbo].[proc_UpdatePayRollById]
+@Id int,
+@EmpId int,
+@Salaried int,
+@CreatedBy int
+AS
+BEGIN
+Update  PayRoll
+   SET EmpId =@EmpId,
+   Salaried =@Salaried,
+   CreatedBy=@CreatedBy
+
+ Where Id=@Id
+
+END
+GO

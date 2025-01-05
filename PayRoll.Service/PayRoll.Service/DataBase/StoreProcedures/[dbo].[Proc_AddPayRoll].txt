@@ -1,0 +1,10 @@
+﻿CREATE Procedure [dbo].[Proc_AddPayRoll]
+@EmpId Int ,
+@salaried Int,
+@CreatedBy Int
+AS
+BEGIN
+ Insert Into PayRoll (EmpId,salaried,CreatedBy,CreatedDate)
+ Values (@EmpId,@salaried,@CreatedBy,GETDATE());
+END;
+GO

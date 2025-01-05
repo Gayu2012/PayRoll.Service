@@ -1,0 +1,8 @@
+﻿Create Procedure [dbo].[Proc_DeletePayRollById]
+@Id int
+AS
+BEGIN 
+Delete from PayRoll
+Where Id = @Id
+END
+GO

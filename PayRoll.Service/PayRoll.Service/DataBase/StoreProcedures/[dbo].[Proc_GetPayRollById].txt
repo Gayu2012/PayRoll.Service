@@ -1,0 +1,8 @@
+﻿Create Procedure [dbo].[Proc_GetPayRollById]
+@Id Int
+AS
+BEGIN
+Select * from PayRoll
+Where Id= @Id
+END
+GO
